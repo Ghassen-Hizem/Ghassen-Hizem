@@ -9,15 +9,13 @@ Ghassen</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m Currently An Ict Engineering Student At <a href="http://www.supcom.mincom.tn/Fr/accueil_46_3/" target="blank">Sup'Com</a>
+- 🔭 I’m Currently An Ict Engineering Student At <a href="https://supcomje.tn/#/" target="blank">Sup'Com</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m Currently Working With <a href="http://www.supcom.mincom.tn/Fr/accueil_46_3/" target="blank">Sup'Com Junior Entreprise</a>
 
 - 🤝 I’m available for freelancing.
 
 - 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
 - 📫 How to reach me **ghassen.hizem20@gmail.com**
 
