@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/Ghassen-Hizem/personal-portfolio/blob/main/assets/Logo%20GHz.png">
-    <img src="./LOGO.PNG" alt="Logo" >
+  <a href="#">
+    <img src="https://github.com/Ghassen-Hizem/personal-portfolio/blob/main/assets/Logo%20GHz.png" alt="Logo" >
   </a>
 
 <h3 align="center">Gamversity</h3>
