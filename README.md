@@ -1,4 +1,4 @@
-![AICoding](https://github.com/coding-ai/coding-ai/blob/master/IMG_4545.JPG)
+![Ghassen_Hizem](https://github.com/coding-ai/coding-ai/blob/master/IMG_4545.JPG](https://github.com/Ghassen-Hizem/personal-portfolio/blob/main/assets/Logo%20GHz.png)
 
 - 👋 Hi, I’m @Ghassen-Hizem
 - 👀 I’m interested in Web Developement
