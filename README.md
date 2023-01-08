@@ -41,7 +41,7 @@ Ghassen</a></h1>
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-	![Create React App](https://img.shields.io/static/v1?style=for-the-badge&message=Create+React+App&color=222222&logo=Create+React+App&logoColor=09D3AC&label=)
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 
 <br>
 	
