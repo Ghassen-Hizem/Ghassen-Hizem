@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/Ghassen-Hizem/mts_application">
+  <a href="https://github.com/Ghassen-Hizem/personal-portfolio/blob/main/assets/Logo%20GHz.png">
     <img src="./LOGO.PNG" alt="Logo" >
   </a>
 
