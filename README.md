@@ -9,7 +9,7 @@ Ghassen</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 I’m currently an ict engineering student at <a href="http://www.supcom.mincom.tn/Fr/accueil_46_3/" target="blank">Sup'Com</a>
 
 - 🌱 I’m currently Working on Mobile App(React-Native)
 
