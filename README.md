@@ -1,3 +1,5 @@
+![AICoding](https://github.com/coding-ai/coding-ai/blob/master/IMG_4545.JPG)
+
 - 👋 Hi, I’m @Ghassen-Hizem
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning Advanced JavaScript
