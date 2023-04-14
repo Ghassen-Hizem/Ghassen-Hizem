@@ -80,7 +80,7 @@ Ghassen</a></h1>
 <br>
 <br>
 
-<h3 align="center">My Dev Card</h3>
+<h3 align="left">My Dev Card</h3>
 <a href="https://app.daily.dev/hizem"><img src="https://api.daily.dev/devcards/d52c67b6f8d84985b341d63864afd2df.png?r=mv5" width="400" alt="Ghassen Hizem's Dev Card"/></a>
 
 <br>
