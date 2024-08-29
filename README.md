@@ -11,9 +11,7 @@ Ghassen</a></h1>
 
 - 🔭 I’m Currently A Software Engineering Student At <a href="https://www.telecom-sudparis.eu/" target="blank">Telecom Sudparis</a>
 
-- 🌱 I’m Currently Working With <a href="https://supcomje.tn/" target="blank">Sup'Com Junior Entreprise</a>
-
-- 🤝 I’m available for freelancing.
+- 🌱 I’m Currently Working With <a href="https://www.societegenerale.com/fr" target="blank">Société Générale</a>
 
 - 📫 How to reach me **ghassen.hizem20@gmail.com**
 
@@ -29,8 +27,6 @@ Ghassen</a></h1>
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=) 
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
-    ![C Sharp](https://img.shields.io/static/v1?style=for-the-badge&message=C+Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label=)
 
 <br>   
     
