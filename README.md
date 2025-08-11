@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Ghassen</a></h1>
 
-<h3 align="center">A Passionate Software Developer</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
+
+## 🚀 About Me
+I am a Certiﬁed AWS Cloud DevOps Engineer, specialized in Infrastructure as Code, CI/CD and cloud-native
+deployments. I combine strong software development skills with DevOps best practices to build
+eﬃcient, automated, and scalable systems.
 
 - 🔭 I’m Currently A Software Engineering Student At <a href="https://www.telecom-sudparis.eu/" target="blank">Telecom Sudparis</a>
 
