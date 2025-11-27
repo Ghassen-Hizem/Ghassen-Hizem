@@ -14,9 +14,6 @@ I am a Certiﬁed AWS Cloud DevOps Engineer, specialized in Infrastructure as Co
 deployments. I combine strong software development skills with DevOps best practices to build
 eﬃcient, automated, and scalable systems.
 
-- 🔭 I’m Currently A Software Engineering Student At <a href="https://www.telecom-sudparis.eu/" target="blank">Telecom Sudparis</a>
-
-- 🌱 I’m Currently Working With <a href="https://www.societegenerale.com/fr" target="blank">Société Générale</a>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
