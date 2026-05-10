@@ -85,9 +85,3 @@ eﬃcient, automated, and scalable systems.
 <br>
 
 </p>
-
-<br>
-<br>
-
-<h3 align="left">My Dev Card</h3>
-<a href="https://app.daily.dev/ghassenhizem"><img src="https://api.daily.dev/devcards/v2/Pq0e2PdwkSvtyP9tXcN4h.png?r=epu" width="356" alt="Ghassen_Hizem's Dev Card"/></a>
